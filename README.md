@@ -1,7 +1,10 @@
 # CODSOFT
  Internship Program 
 
+<<<<<<< HEAD
 #TASK 1
+=======
+>>>>>>> 6aeb28c6ab4a469020f64c6a398343ca4aa809f4
 # Number Guessing Game
 
 ## Introduction
