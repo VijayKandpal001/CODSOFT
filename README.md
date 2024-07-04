@@ -1,7 +1,7 @@
 # CODSOFT
  Internship Program 
 
-#TASK 1
+# TASK 1
 # Number Guessing Game
 
 ## Introduction
