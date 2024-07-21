@@ -20,7 +20,7 @@ This is a simple yet engaging number guessing game developed using C++. The game
 ## Exiting the Game
 
 To exit the game during gameplay, press `Ctrl + C`. Alternatively, you can select option `0` at the beginning to not start the game.
-
+b
 ## Building and Running the Game
 
 To build and run the game, ensure you have a C++ compiler installed on your system. Open the terminal or command prompt, navigate to the directory containing `Number_Guess_Game.cpp`, and compile the source code using a C++ compiler (e.g., g++). After compilation, execute the generated binary to start playing the game.
