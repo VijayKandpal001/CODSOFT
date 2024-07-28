@@ -65,3 +65,45 @@ To build and run the game, ensure you have a C++ compiler installed on your syst
    ```
    .\Tic_Tack_Toe_Game.exe
    ```
+
+
+
+
+
+# TASK 3
+# To Do List Application
+
+## Introduction
+
+This application is a simple yet effective tool for managing tasks. It allows users to create, view, mark as completed, and remove tasks from a list. Developed using C++, this application provides a straightforward console based interface for organizing daily tasks efficiently.
+
+## Features
+
+- **Add Task**: Users can add new tasks to the list by entering a description of what needs to be done.
+- **View Tasks**: Displays all current tasks along with their completion status.
+- **Mark Task as Completed**: Allows users to mark specific tasks as completed directly from the list.
+- **Remove Task**: Enables the removal of tasks from the list.
+- **User-Friendly Interface**: Provides a clear console based menu for easy navigation through the application's features.
+
+## How to Use
+
+1. **Start the Application**: Run the `To_Do_List.cpp` executable. This will launch the application and display the initial menu.
+2. **Select an Action**: From the menu, choose one of the following options:
+   - Enter `1` to add a new task.
+   - Enter `2` to view the current list of tasks.
+   - Enter `3` to mark a task as completed.
+   - Enter `4` to remove a task from the list.
+   - Enter `5` to exit the application.
+3. **Perform Actions**: Depending on the selected action, you will be prompted to enter additional information or confirmations as needed.
+
+## Exiting the Application
+
+To exit the application at any time, simply select option `5` from the main menu.
+
+## Building and Running the Application
+
+To build and run the application, ensure you have a C++ compiler installed on your system. Follow these steps:
+
+1. Navigate to the directory containing `To_Do_List.cpp`.
+2. Compile the source code using a C++ compiler (e.g., g++).
+3. After compilation, execute the generated binary `To_Do_List.exe` to start using application.
